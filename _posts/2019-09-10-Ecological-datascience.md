@@ -7,4 +7,5 @@ You can contact me via this email address: <kchoi@kookmin.ac.kr> ([mailto](mailt
 2. About variable and data types of R ([Week 2]({{ site.baseurl }}/assets/pdf/EcoDS_Week2_DataType.pdf))
 3. About R programming ([Week 3]({{ site.baseurl }}/assets/pdf/EcoDS_Week3_RProgramming.pdf))
 4. Data manipulation with R ([Week4]({{ site.baseurl }}/assets/pdf/EcoDS_Week4_DataManipulation.pdf)) ([Data1]({{ site.baseurl }}/assets/Data/KMA_20190916_0922.csv)) ([Data2]({{ site.baseurl }}/assets/Data/stnInfo.csv))
+5. Data manipulation using dplyr package ([Week5]({{ site.baseurl }}/assets/pdf/EcoDS_Week5_DataManipulationAndPlot.pdf)) ([Data1]({{ site.baseurl }}/assets/Data/PM100_20190930.xls)) ([Data2]({{ site.baseurl }}/assets/Data/PM25_20190930.xls))
 
