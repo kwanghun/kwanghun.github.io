@@ -10,5 +10,6 @@ You can contact me via this email address: <kchoi@kookmin.ac.kr> ([mailto](mailt
 5. Data manipulation using dplyr package ([Week5]({{ site.baseurl }}/assets/pdf/EcoDS_Week5_DataManipulationAndPlot.pdf)) ([Data1]({{ site.baseurl }}/assets/Data/PM100_20190930.xls)) ([Data2]({{ site.baseurl }}/assets/Data/PM25_20190930.xls))
 6. Basic statistics 1 ([Week6]({{ site.baseurl }}/assets/pdf/EcoDS_Week6_BasicStatistics.pdf))
 7. Basic statistics 2 ([Week7]({{ site.baseurl }}/assets/pdf/EcoDS_Week7_CorLM.pdf)) ([Data1]({{ site.baseurl }}/assets/Data/AirQuality.csv))
+8. Basic statistics 3 ([Week8]({{ site.baseurl }}/assets/pdf/EcoDS_Week8_MVLM.pdf))
 
 
