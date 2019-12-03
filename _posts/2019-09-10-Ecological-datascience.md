@@ -11,5 +11,6 @@ You can contact me via this email address: <kchoi@kookmin.ac.kr> ([mailto](mailt
 6. Basic statistics 1 ([Week6]({{ site.baseurl }}/assets/pdf/EcoDS_Week6_BasicStatistics.pdf))
 7. Basic statistics 2 ([Week7]({{ site.baseurl }}/assets/pdf/EcoDS_Week7_CorLM.pdf)) ([Data1]({{ site.baseurl }}/assets/Data/AirQuality.csv))
 8. Basic statistics 3 ([Week8]({{ site.baseurl }}/assets/pdf/EcoDS_Week8_MVLM.pdf))
+9. Data analysis with open public data ([Week9]({{ site.baseurl }}/assets/pdf/EcoDS_Week9_Koweps_example.pdf))
 
 
