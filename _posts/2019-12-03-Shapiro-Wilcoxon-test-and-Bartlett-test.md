@@ -27,7 +27,6 @@ There are critical errors on the explanation of Shapiro-Wilcoxon and Bartlett's 
 The null hypothesis of Shapiro-Wilcoxon test is that data are distributed normally, so if the p-value is less than 0.05, we can reject the null hypothesis and conclude that the data are not distributed normally.   
 
 The null hypothesis of Bartlett's test is all samples have the equal variance, so if the p-value is less than 0.05, we can reject the null hypothesis and conclude that at least one of the sample has different variance than others.   
-A
 You can find further details about the Shapiro-Wilcoxon test on [an article from the Wikipedia](https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test) and the Bartlett's test on [and article from the Wikipedia](https://en.wikipedia.org/wiki/Bartlett%27s_test).
 
 
